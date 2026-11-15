@@ -15,3 +15,6 @@ A local AI assistant (and "friend") I can talk to from my computer.
 Starting with a console chatbot, then voice and more...
 
 Status: just started.
+
+## Files
+- `chat.py`: console chat with a local Ollama model. Type "exit pls" to quit.
